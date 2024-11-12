@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2DD7C4-6220-413A-81D8-AD8EB5D3FF0F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|d:\\librarymanagementsystem\\librarymanagementsystem\\issuebooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2DD7C4-6220-413A-81D8-AD8EB5D3FF0F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\issuebooks.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2DD7C4-6220-413A-81D8-AD8EB5D3FF0F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\LibraryManagementSystem\\librarymanagementsystem\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4C2DD7C4-6220-413A-81D8-AD8EB5D3FF0F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\admindashboard.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2DD7C4-6220-413A-81D8-AD8EB5D3FF0F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|D:\\LibraryManagementSystem\\librarymanagementsystem\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2DD7C4-6220-413A-81D8-AD8EB5D3FF0F}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\admindashboard.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IssueBooks.aspx.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.aspx.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\IssueBooks.aspx.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\IssueBooks.aspx.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\IssueBooks.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:16:03.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboard.aspx.cs",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\AdminDashboard.aspx.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AdminDashboard.aspx.cs",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\AdminDashboard.aspx.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\AdminDashboard.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:02:11.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDashboard.aspx",
+              "DocumentMoniker": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\AdminDashboard.aspx",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\AdminDashboard.aspx",
+              "ToolTip": "D:\\LibraryManagementSystem\\LibraryManagementSystem\\AdminDashboard.aspx",
+              "RelativeToolTip": "LibraryManagementSystem\\AdminDashboard.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-28T04:42:45.653Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
